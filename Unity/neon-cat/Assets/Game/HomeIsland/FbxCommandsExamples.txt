@@ -1,0 +1,12 @@
+Set(HoveringLocal[0], AlongVector=(0.0, 1.0, 0.0))
+Set(HoveringLocal[0], Ease=InOutSine)
+Set(HoveringLocal[0], LoopDuration=5.0)
+GroupSet()
+
+Set(Rotating[0], AlongAxis=(0.0, 0.0, 1.0))
+Set(Rotating[0], LoopDuration=6.0)
+
+
+Set(RotatingSegment[0], AlongAxis=(0.0, 0.0, 1.0))
+Set(RotatingSegment[0], LoopDuration=4.0)
+Set(RotatingSegment[0], SegmentAngle=20.0)

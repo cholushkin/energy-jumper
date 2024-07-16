@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 123a32a790a078e4fa8ef530fdf9881d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2004190614210379289
+    second: SpriteSmokeEffect_0
+  - first:
+      213: 246003177054822029
+    second: SpriteSmokeEffect_1
+  - first:
+      213: -1365110984045351070
+    second: SpriteSmokeEffect_2
+  - first:
+      213: -5375022061230376458
+    second: SpriteSmokeEffect_3
+  - first:
+      213: -4492775121241638014
+    second: SpriteSmokeEffect_4
+  - first:
+      213: 212134127727803166
+    second: SpriteSmokeEffect_5
+  - first:
+      213: 6490921549576886773
+    second: SpriteSmokeEffect_6
+  - first:
+      213: 6322712775106278425
+    second: SpriteSmokeEffect_7
+  - first:
+      213: 3169421194892651752
+    second: SpriteSmokeEffect_8
+  - first:
+      213: -2642761568432019095
+    second: SpriteSmokeEffect_9
+  - first:
+      213: -464158719721739226
+    second: SpriteSmokeEffect_10
+  - first:
+      213: 7783998314212739928
+    second: SpriteSmokeEffect_11
+  - first:
+      213: -5739450977316055157
+    second: SpriteSmokeEffect_12
+  - first:
+      213: -9130359693977851940
+    second: SpriteSmokeEffect_13
+  - first:
+      213: -4933530610869102150
+    second: SpriteSmokeEffect_14
+  - first:
+      213: -5227251036069912396
+    second: SpriteSmokeEffect_15
+  - first:
+      213: -4875599461565507098
+    second: SpriteSmokeEffect_16
+  - first:
+      213: 450136452275013988
+    second: SpriteSmokeEffect_17
+  - first:
+      213: -8614415610919556565
+    second: SpriteSmokeEffect_18
+  - first:
+      213: 5969574889272339330
+    second: SpriteSmokeEffect_19
+  - first:
+      213: -1645892824250354834
+    second: SpriteSmokeEffect_20
+  - first:
+      213: -6577237030834249842
+    second: SpriteSmokeEffect_21
+  - first:
+      213: -7330613368637706142
+    second: SpriteSmokeEffect_22
+  - first:
+      213: 6235097415977947213
+    second: SpriteSmokeEffect_23
+  - first:
+      213: 4445030401271670132
+    second: SpriteSmokeEffect_24
+  - first:
+      213: -274404181109259589
+    second: SpriteSmokeEffect_25
+  - first:
+      213: -3549921787639984115
+    second: SpriteSmokeEffect_26
+  - first:
+      213: -9008381812370379885
+    second: SpriteSmokeEffect_27
+  - first:
+      213: -7556232765391446859
+    second: SpriteSmokeEffect_28
+  - first:
+      213: 6742951344223232502
+    second: SpriteSmokeEffect_29
+  - first:
+      213: -4168428282666114436
+    second: SpriteSmokeEffect_30
+  - first:
+      213: -6982844261690603567
+    second: SpriteSmokeEffect_31
+  - first:
+      213: 2441577251188340717
+    second: SpriteSmokeEffect_32
+  - first:
+      213: 7584511190468087629
+    second: SpriteSmokeEffect_33
+  - first:
+      213: -6970796444142519516
+    second: SpriteSmokeEffect_34
+  - first:
+      213: 507298575688719015
+    second: SpriteSmokeEffect_35
+  - first:
+      213: -3832925177937689961
+    second: SpriteSmokeEffect_36
+  - first:
+      213: -2610616938525965527
+    second: SpriteSmokeEffect_37
+  - first:
+      213: -5050903309361341969
+    second: SpriteSmokeEffect_38
+  - first:
+      213: 6131512142733840066
+    second: SpriteSmokeEffect_39
+  - first:
+      213: -381830166486167594
+    second: SpriteSmokeEffect_40
+  - first:
+      213: 5571737685331199594
+    second: SpriteSmokeEffect_41
+  - first:
+      213: 5794839707124649524
+    second: SpriteSmokeEffect_42
+  - first:
+      213: 6990943625974092667
+    second: SpriteSmokeEffect_43
+  - first:
+      213: 7257061780567399994
+    second: SpriteSmokeEffect_44
+  - first:
+      213: 5805226636792266941
+    second: SpriteSmokeEffect_45
+  - first:
+      213: 4814649748341813419
+    second: SpriteSmokeEffect_46
+  - first:
+      213: -5521271116824602091
+    second: SpriteSmokeEffect_47
+  - first:
+      213: -4589492373210661593
+    second: SpriteSmokeEffect_48
+  - first:
+      213: -7606530348144161130
+    second: SpriteSmokeEffect_49
+  - first:
+      213: 6338091005124866865
+    second: SpriteSmokeEffect_50
+  - first:
+      213: 3183030414943975307
+    second: SpriteSmokeEffect_51
+  - first:
+      213: 739526847120754584
+    second: SpriteSmokeEffect_52
+  - first:
+      213: -7554475223311401782
+    second: SpriteSmokeEffect_53
+  - first:
+      213: 562445429716757714
+    second: SpriteSmokeEffect_54
+  - first:
+      213: 6556832555437257218
+    second: SpriteSmokeEffect_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7e26beb050db10800000000000000
+      internalID: 2004190614210379289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e58fd069af96300800000000000000
+      internalID: 246003177054822029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2efceac62e0de0800000000000000
+      internalID: -1365110984045351070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b974d9e51865b0800000000000000
+      internalID: -5375022061230376458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfdaab4d476a1c0800000000000000
+      internalID: -4492775121241638014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf3ff7dd6a1f200800000000000000
+      internalID: 212134127727803166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9557b42c2641a50800000000000000
+      internalID: 6490921549576886773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b80115c9ceb750800000000000000
+      internalID: 6322712775106278425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecab21d8cb0cfb20800000000000000
+      internalID: 3169421194892651752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692e8ffa56035bd0800000000000000
+      internalID: -2642761568432019095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce5978a1afe89f0800000000000000
+      internalID: -464158719721739226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc3e2b931560c60800000000000000
+      internalID: 7783998314212739928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87de4bbebf5950b0800000000000000
+      internalID: -5739450977316055157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e7e8ab327a4180800000000000000
+      internalID: -9130359693977851940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSmokeEffect_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab991a26c04988bb0800000000000000
+      internalID: -4933530610869102150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSmokeEffect_1: 246003177054822029
+      SpriteSmokeEffect_7: 6322712775106278425
+      SpriteSmokeEffect_10: -464158719721739226
+      SpriteSmokeEffect_9: -2642761568432019095
+      SpriteSmokeEffect_5: 212134127727803166
+      SpriteSmokeEffect_6: 6490921549576886773
+      SpriteSmokeEffect_8: 3169421194892651752
+      SpriteSmokeEffect_0: 2004190614210379289
+      SpriteSmokeEffect_2: -1365110984045351070
+      SpriteSmokeEffect_12: -5739450977316055157
+      SpriteSmokeEffect_13: -9130359693977851940
+      SpriteSmokeEffect_3: -5375022061230376458
+      SpriteSmokeEffect_4: -4492775121241638014
+      SpriteSmokeEffect_11: 7783998314212739928
+      SpriteSmokeEffect_14: -4933530610869102150
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2b2f48bd818875545a977d44e94d39b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kamerik 105 Cyrillic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69b8b3665b8c6b846a36ce6d50f04cc4, type: 3}
+  - {fileID: 12800000, guid: d51fdfaac2a0565488a5396a7028fa77, type: 3}
+  - {fileID: 12800000, guid: d85d58eb80b5c49408b5b478930d440e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

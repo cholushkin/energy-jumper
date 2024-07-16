@@ -1,0 +1,1 @@
+coins.give 1000

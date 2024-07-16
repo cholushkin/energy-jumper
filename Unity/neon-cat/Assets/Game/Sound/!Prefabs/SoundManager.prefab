@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &131036536219903019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 131036536219903017}
+  - component: {fileID: 131036536219903018}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &131036536219903017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131036536219903019}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -36.5382, y: -1.8039594, z: -6.2002606}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &131036536219903018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131036536219903019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98946f4895de23d4b8438e9acd52c81e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LogChecker:
+    CheckerLevel: 0
+    Subsystem: 
+  MixerGroup: {fileID: -1508355942175060860, guid: 65d69e882baf59542895504bed86b284, type: 2}
+  _initialPoolSize: 32
+  _canGrowPool: 1
+  _loggingType: 1
+  _checkUnassignedSounds: 1
+  _soundList:
+  - Name: SfxBlockCrack
+    soundType: 7
+    audioClip: {fileID: 8300000, guid: 5cec77d0bca3e904aa00d3716abeb827, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxBlockCrack
+    soundType: 7
+    audioClip: {fileID: 8300000, guid: 27918845ed4188b41b7f9a006ad30e9f, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxBlockExplode
+    soundType: 8
+    audioClip: {fileID: 8300000, guid: 60b9e05a8a8f39f41996d1a278bc298d, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxBlockExplode
+    soundType: 8
+    audioClip: {fileID: 8300000, guid: fbb2ee2b743665448a4a66e4c534c710, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxButtonRegularTap
+    soundType: 13
+    audioClip: {fileID: 8300000, guid: ecaffc1180795724190248d4113fe694, type: 3}
+    volumeLow: 0.563
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxDieByFalling
+    soundType: 15
+    audioClip: {fileID: 8300000, guid: 60e26ac3a87242643a31c9ab8a69c338, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxLevelComplete
+    soundType: 14
+    audioClip: {fileID: 8300000, guid: 85ae91ed46c2f0e498c3e410959ae2dd, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxPickupCoin
+    soundType: 4
+    audioClip: {fileID: 8300000, guid: 47be3cc747b57b342a8518e8357ec5d4, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShatterHitGround
+    soundType: 6
+    audioClip: {fileID: 8300000, guid: dcb2909b9c46a9d4f82b3bde55d8b363, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShatterHitGround
+    soundType: 6
+    audioClip: {fileID: 8300000, guid: 3c69460d886c9d64da12459abf3dd8cc, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShatterHitGround
+    soundType: 6
+    audioClip: {fileID: 8300000, guid: 48e7c7b45f53f9a4ebd8a0c6f117229e, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShipCharge
+    soundType: 11
+    audioClip: {fileID: 8300000, guid: 5b384a125d5cf7447b8a4b0a631cf84e, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.8
+    pitchHigh: 1.2
+  - Name: SfxShipHitObstacle
+    soundType: 5
+    audioClip: {fileID: 8300000, guid: a758884262558514d9bffc368a24b3bb, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShipHitObstacle
+    soundType: 5
+    audioClip: {fileID: 8300000, guid: ca06eebb9d62edf429f7f287112edb97, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxTimeFreezeExit
+    soundType: 2
+    audioClip: {fileID: 8300000, guid: c01fd9dd8a0313b4ca4364349637307c, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxShipJump
+    soundType: 3
+    audioClip: {fileID: 8300000, guid: 4189dcfed1f72214cadde14a405def20, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.85
+    pitchHigh: 1.1
+  - Name: SfxSurfaceDischarge
+    soundType: 12
+    audioClip: {fileID: 8300000, guid: 391f96e1943d20d4bb5bf77624d0e7d3, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxTeleportClose
+    soundType: 10
+    audioClip: {fileID: 8300000, guid: 50a0c169d07bc334d84f77c257f97c1b, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxTeleportOpen
+    soundType: 9
+    audioClip: {fileID: 8300000, guid: 1d85daf846bc3d7459c330608938e727, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
+  - Name: SfxTimeFreezeEnter
+    soundType: 1
+    audioClip: {fileID: 8300000, guid: b2d723e04ff591248a3d0afeeee35284, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.6
+    pitchHigh: 1.2
+  - Name: SfxTimeFreezeExit
+    soundType: 2
+    audioClip: {fileID: 8300000, guid: c01fd9dd8a0313b4ca4364349637307c, type: 3}
+    volumeLow: 0.6
+    volumeHigh: 1
+    pitchLow: 0.9
+    pitchHigh: 1
