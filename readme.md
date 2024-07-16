@@ -3,4 +3,4 @@
 ![project logo](documentation/repository-open-graph-cover.png)
 
 ## Dependencies
-[Dependencies](Dependencies.md)
+[Dependencies](dependencies.md)
