@@ -1,0 +1,15 @@
+[submodule "Unity/neon-cat/Assets/Libs/gamelib"]
+	path = Unity/neon-cat/Assets/Libs/gamelib
+	url = https://github.com/cholushkin/gamelib.git
+[submodule "Unity/neon-cat/Assets/Libs/umoonsharp"]
+	path = Unity/neon-cat/Assets/Libs/umoonsharp
+	url = https://github.com/cholushkin/umoonsharp.git
+[submodule "Unity/neon-cat/Assets/Libs/versionhistory"]
+	path = Unity/neon-cat/Assets/Libs/versionhistory
+	url = https://github.com/cholushkin/VersionHistory.git
+[submodule "Unity/neon-cat/Assets/Libs/towergenerator"]
+	path = Unity/neon-cat/Assets/Libs/towergenerator
+	url = https://github.com/cholushkin/TowerGenerator.git
+[submodule "Unity/neon-cat/Assets/Libs/uconsole"]
+	path = Unity/neon-cat/Assets/Libs/uconsole
+	url = https://github.com/cholushkin/uconsole.git
