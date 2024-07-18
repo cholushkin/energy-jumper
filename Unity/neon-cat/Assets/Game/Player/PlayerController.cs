@@ -150,6 +150,7 @@ namespace Game
 
         void Update()
         {
+            return;
             _stateMachine.Update();
 
             // update look on intention vector

@@ -124,13 +124,16 @@ public class LevelEnvironmentSettings : MonoBehaviour, IHandle<AspectRatioHelper
 
 
         // ##### GUI
-        StateGameplay.Instance.GameHUD.LevelProgressionController.gameObject.SetActive(ShowProgressbar);
-        StateGameplay.Instance.GameHUD.LevelProgressionController.View
-            .AgentPointer.GetComponent<Image>().color = CharacterPointerColor;
-        StateGameplay.Instance.GameHUD.LevelProgressionController.View
-            .ScaleRuler.GetComponent<Image>().color = ScaleRulerColor;
-        StateGameplay.Instance.GameHUD.LevelProgressionController.View
-            .SlicedBar.GetComponent<Image>().color = FillColor;
+        if (StateGameplay.Instance.GameHUD)
+        {
+            StateGameplay.Instance.GameHUD.LevelProgressionController.gameObject.SetActive(ShowProgressbar);
+            StateGameplay.Instance.GameHUD.LevelProgressionController.View
+                .AgentPointer.GetComponent<Image>().color = CharacterPointerColor;
+            StateGameplay.Instance.GameHUD.LevelProgressionController.View
+                .ScaleRuler.GetComponent<Image>().color = ScaleRulerColor;
+            StateGameplay.Instance.GameHUD.LevelProgressionController.View
+                .SlicedBar.GetComponent<Image>().color = FillColor;
+        }
     }
 
     public void ApplyMaterialToRenderers(Renderer[] renderers)

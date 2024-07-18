@@ -145,7 +145,7 @@ namespace Game
             if (LogChecker.Verbose() && LogChecker.IsFilterPass())
                 Debug.LogFormat("Enter game state '{0}'", GetName());
             GlobalEventAggregator.EventAggregator.Subscribe(this);
-            HomeIslandController.SetEnabled(false);
+            HomeIslandController?.SetEnabled(false);
             _stateMachine.GoTo(State.Loading);
         }
 
@@ -351,7 +351,7 @@ namespace Game
             level.SetActive(true);
             Level = level.GetComponent<Level.Level>();
 
-            DragControl.CreateSegments();
+            DragControl?.CreateSegments();
 
             var levelSettings = Level.GetComponent<LevelEnvironmentSettings>();
             Assert.IsNotNull(levelSettings, "There must be LevelSettings attached to the level");
